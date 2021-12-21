@@ -13,7 +13,7 @@ const io = socketio(server);
 // Set static folder
 app.use(express.static(path.join(__dirname, 'public')));
 
-const botName = 'Vibrr Bot';
+const botName = 'Krushkord Bot';
 
 // Eun when client connects
 io.on('connection', socket => {
