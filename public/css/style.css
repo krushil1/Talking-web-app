@@ -187,3 +187,13 @@ a {
 		display: none;
 	}
 }
+
+.btn-leave:hover {
+	color: #7289DA;
+	background-color: #2C2F33;
+}
+
+.btn-send:hover {
+	color: #7289DA;
+	background-color: #2C2F33;
+}
